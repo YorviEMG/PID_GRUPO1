@@ -38,7 +38,7 @@
                     android:layout_height="80dp"
                     android:fontFamily="monospace"
                     android:gravity="center_vertical"
-                    android:text="GAME-ARENA"
+                    android:text="TodoList"
                     android:textAlignment="textStart"
                     android:textColor="@color/black"
                     android:textColorLink="@color/white"
